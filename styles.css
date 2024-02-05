@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+#audioPlayer {
+  width: 300px;
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+#musicFile {
+  display: block;
+  margin-bottom: 10px;
+}
+
+#playButton {
+  background-color: #4CAF50;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#playButton:hover {
+  background-color: #3e8e41;
+}
